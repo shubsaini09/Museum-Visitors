@@ -56,7 +56,6 @@ app.get('/api/visitors', (req, res) => {
         ignore
     } = req.query;
     let {formattedDate, month, year} = timestampConverter(date);
-    // console.log(formattedDate);
     axios.get(config.get('host'))
         .then(function (response) {
             let {
