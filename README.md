@@ -12,3 +12,6 @@ Steps to run
     a) http://localhost:3000/api/visitors?date=1645624209000&ignore=avila_adobe
     
     b) http://localhost:3000/api/visitors?date=1645624209000
+    
+![Alt text](success1.png?raw=true "Title")
+![Alt text](success2.png?raw=true "Title")
