@@ -13,4 +13,5 @@ Steps to run
     
     b) http://localhost:3000/api/visitors?date=1645624209000
     
-![Alt text](success.png?raw=true "Title")
+![Alt text](success1.png?raw=true "Title")
+![Alt text](success2.png?raw=true "Title")
